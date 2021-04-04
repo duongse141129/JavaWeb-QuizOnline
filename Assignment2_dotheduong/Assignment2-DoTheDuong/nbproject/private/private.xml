@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Desktop/recode/Assignment2_dotheduong/Assignment2-DoTheDuong/src/java/controllers/CreateQuestionController.java</file>
+            <file>file:/C:/Users/Admin/Desktop/recode/Assignment2_dotheduong/Assignment2-DoTheDuong/src/java/controllers/HistoryPageController.java</file>
+            <file>file:/C:/Users/Admin/Desktop/recode/Assignment2_dotheduong/Assignment2-DoTheDuong/web/registration.jsp</file>
+            <file>file:/C:/Users/Admin/Desktop/recode/Assignment2_dotheduong/Assignment2-DoTheDuong/web/management.jsp</file>
+            <file>file:/C:/Users/Admin/Desktop/recode/Assignment2_dotheduong/Assignment2-DoTheDuong/web/quiz.jsp</file>
+            <file>file:/C:/Users/Admin/Desktop/recode/Assignment2_dotheduong/Assignment2-DoTheDuong/src/java/controllers/TakeQuizController.java</file>
+            <file>file:/C:/Users/Admin/Desktop/recode/Assignment2_dotheduong/Assignment2-DoTheDuong/web/result.jsp</file>
+            <file>file:/C:/Users/Admin/Desktop/recode/Assignment2_dotheduong/Assignment2-DoTheDuong/web/update.jsp</file>
+            <file>file:/C:/Users/Admin/Desktop/recode/Assignment2_dotheduong/Assignment2-DoTheDuong/src/java/utils/DBUtils.java</file>
+            <file>file:/C:/Users/Admin/Desktop/recode/Assignment2_dotheduong/Assignment2-DoTheDuong/web/history.jsp</file>
+            <file>file:/C:/Users/Admin/Desktop/recode/Assignment2_dotheduong/Assignment2-DoTheDuong/src/java/controllers/SearchHitoryController.java</file>
+            <file>file:/C:/Users/Admin/Desktop/recode/Assignment2_dotheduong/Assignment2-DoTheDuong/src/java/daos/QuizDAO.java</file>
+            <file>file:/C:/Users/Admin/Desktop/recode/Assignment2_dotheduong/Assignment2-DoTheDuong/src/java/daos/AnswerDAO.java</file>
+            <file>file:/C:/Users/Admin/Desktop/recode/Assignment2_dotheduong/Assignment2-DoTheDuong/web/login.jsp</file>
+            <file>file:/C:/Users/Admin/Desktop/recode/Assignment2_dotheduong/Assignment2-DoTheDuong/web/user.jsp</file>
+            <file>file:/C:/Users/Admin/Desktop/recode/Assignment2_dotheduong/Assignment2-DoTheDuong/src/java/controllers/LoginController.java</file>
+        </group>
+    </open-files>
+</project-private>
